@@ -1,6 +1,6 @@
 # React + Vite
 
-This is my solution of [devChallenges project](https://country-quiz-app-six.vercel.app/)
+This is my solution of a [devChallenges project](https://devchallenges.io/solution/33509)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
